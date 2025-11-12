@@ -27,4 +27,4 @@ This section contains detailed reports and documentation from practical labs dem
 
 ---
 
-**Contact:** **Email: ahmedsafayet343@gmail.com** | [Link to your LinkedIn Profile]
+**Contact:** **Email: ahmedsafayet343@gmail.com** | - LinkedIn: [Safayet Ahmed](https://www.linkedin.com/in/safayet-ahmed-0a37772a2)]
