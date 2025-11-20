@@ -22,7 +22,7 @@ This section contains detailed reports and documentation from practical labs dem
 1.  **FakeBank Exploitation:** [THM_FakeBank_Web_Exploitation_Report](THM_FakeBank_Web_Exploitation_Report.md)
     * **Skills Demonstrated:** Directory Brute-Forcing (Gobuster), Access Control Bypass.
 
-2.  2. Internal Network Reconnaissance: [Nmap Host Profiling Project](https://github.com/Safayetahmedcyber/Nmap-internal-scan)
+2. 2. Internal Network Reconnaissance: [Nmap Host Profiling Project](https://github.com/Safayetahmedcyber/Nmap-internal-scan-)
    - **Skills Demonstrated:** Network Mapping (Nmap), OS Fingerprinting, Service Version Detection, TCP/IP Analysis.
 3.  [Add future project here: e.g., Cloud IAM Misconfiguration Report]
 
